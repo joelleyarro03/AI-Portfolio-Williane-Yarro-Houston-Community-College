@@ -23,7 +23,7 @@ Each project demonstrates hands-on experience with AI technologies, text process
 
 ## 📂 Folder Structure
 AI-Portfolio-Williane-Yarro-HCC/
-│
+│Folders/files under it
 ├── L01_NLP_Intro/ # Introduction to NLP & Text Classification
 ├── L02_Journal/ # Reflection on Multilingual NLP
 ├── L04_Text_Representation/ # TF-IDF, BoW, Word Embeddings (Lab)
@@ -32,5 +32,7 @@ AI-Portfolio-Williane-Yarro-HCC/
 ├── A03_NewsBot_Project/ # Midterm Project – NewsBot Classifier
 ├── Presentation/ # Final Presentation (PPTX & PDF)
 └── README.md # This file
+
+
 
 
