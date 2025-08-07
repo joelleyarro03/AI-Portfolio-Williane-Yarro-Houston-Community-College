@@ -28,9 +28,32 @@ Each project demonstrates hands-on experience with AI technologies, text process
 
 ---
 
+AI-Portfolio-williane-Yarro-HCC/
+│
+├── README.md
+├── code/
+│   ├── main_notebook.ipynb
+│   ├── data_processing.ipynb
+│   ├── model_training.ipynb
+│   ├── evaluation.ipynb
+│   └── ... (additional notebooks)
+├── docs/
+│   ├── journal entries/
+│   │   ├── L001_WillianeYarro_HCC-1
+│   │   ├── L02_Journal_WillianeYarro_HCC-1
+│   │   ├── L04_Journal_WillianeYarro_HCC-1
+│   │   ├── L05_Journal_WillianeYarro_HCC-1
+│   │   ├── L07_Journal_WillianeYarro_HCC-1
+│   │   ├── Midterm_NewsBot_Intelligence_Group_WillianeYarro_HCC-1
+│   │   ├── NewsBot_Reflection_Group_WillianeYarro_HCC-1
+│   ├── reports/
+│   │   ├── A03_Group_WillianeYarro_HCC-1
+│   │   ├── NewsBot_Reflection_Group_WillianeYarro_HCC-1
+│   └── ... (other documentation)
+└── README.md
+
+ ---
 
  
-
-
 
 
