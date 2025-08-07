@@ -26,9 +26,25 @@ Currently, I am working towards my degree in AI at Houston Community College (HC
 
 
 
+## Courses Completed
 
+- Introduction to NLP: A comprehensive overview of the history, applications, and core concepts of Natural Language Processing.
+- Text Processing and Cleaning: Techniques such as tokenization, normalization, stopword removal, and lemmatization.
+- Audio Processing: Fundamental principles of signal processing relevant to speech recognition.
+- Text Representation: Methods including Bag-of-Words, TF-IDF, and Word Embeddings.
+- Part-of-Speech Tagging: Techniques and models for POS tagging.
+- Syntax & Semantic Analysis: Approaches to dependency parsing and semantic extraction.
+- Sentiment & Emotion Analysis: Identifying sentiment polarity and emotions in both text and audio.
+- Text Classification: Utilizing supervised learning methods for text categorization.
+- Named Entity Recognition (NER): Techniques for entity identification using spaCy.
+- Topic Modeling: Methods for topic extraction using LDA and NMF.
+- Language Models: Exploring transformers, attention mechanisms, and large language models.
+- Machine Translation: Understanding neural machine translation and its evaluation metrics.
+- Conversational AI & NLU: Developing chatbots and dialog systems.
+- Summarization & QA: Implementing text summarization and question answering using transformers.
+- Final Projects & Portfolio: Creating end-to-end AI solutions and compiling a personal portfolio.
 
-## 🔧 Skills & Technologies
+## 🔧 Skills & Technologies/Platforms
 
 - Languages: Python (Jupyter, Google Colab), Git
 - Libraries: spaCy, Scikit-learn, VADER, HuggingFace Transformers, Pandas, Matplotlib, NumPy
@@ -89,6 +105,7 @@ All code files are in `.ipynb` or `.py` format, and each module folder contains 
 
 
 ---
+
 
 
 
