@@ -8,6 +8,26 @@ This repository showcases my learning journey, key projects, and applied skills 
 
 ---
 
+
+## About Me
+I am an enthusiastic AI professional with a focus on natural language processing, machine learning, and deep learning. 
+Currently, I am working towards my degree in AI at Houston Community College (HCC).
+
+## Skills & Technologies Learned
+- Python programming
+- Markdown
+- Jupyter notebooks
+- Machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+- Natural Language Processing (NLP) techniques
+- Data preprocessing and cleaning
+- Model training and evaluation
+- Google Colab
+- GitHub
+
+
+
+
+
 ## 🔧 Skills & Technologies
 
 - Languages: Python (Jupyter, Google Colab), Git
@@ -69,5 +89,6 @@ All code files are in `.ipynb` or `.py` format, and each module folder contains 
 
 
 ---
+
 
 
