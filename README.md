@@ -18,7 +18,7 @@ Each project demonstrates hands-on experience with AI technologies, text process
 - 
 - Libraries: NLTK, scikit-learn, Matplotlib, VADER, textblob and SpaCy.
 -  
-- Tools/PLATFORMS: Jupyter NoteBook, Google Colab, and github and Gitbash.
+- Tools/Platforms: Jupyter NoteBook, Google Colab, and github and Gitbash.
 - 
 - AI Techniques: Text classification, sentiment analysis, POS tagging, embeddings, ASR, TTS
 - 
@@ -53,6 +53,18 @@ AI-Portfolio-williane-Yarro-HCC/
 └── README.md
 
  ---
+
+
+ 
+## Contact
+
+- Email: joelleyarro@yahoo.com. 
+- GitHub: https://github.com/joelleyarro03/AI-Portfolio-Williane-Yarro/edit/main/PowerPoints/README.md
+
+---
+
+> _“This presentation reflects my AI learning journey, project work, and readiness to grow further in the field.”_
+
 
  
 
